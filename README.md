@@ -10,6 +10,8 @@ The goal of this project is to analyze and derive meaningful insights from COVID
 - Identifying regions with the highest infection and death rates.
 
 ## Dataset
+Link to Dataset: https://ourworldindata.org/covid-deaths
+
 The dataset consists of two main tables:
 
 1. **COVIDDeaths**:
